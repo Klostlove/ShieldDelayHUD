@@ -9,7 +9,9 @@
 		"Klostlove"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/shielddelayhud"
+		"homepage": "https://modrinth.com/mod/shielddelayhud",
+		"sources": "https://github.com/Klostlove/ShieldDelayHUD",
+		"issues": "https://github.com/Klostlove/ShieldDelayHUD/issues"
 	},
 	"license": "LGPL-3.0",
 	"environment": "client",
